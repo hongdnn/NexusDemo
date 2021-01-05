@@ -14,10 +14,10 @@
   </licenses>
 
   <scm>
-    <connection>scm:git:https://github.com/hongdnn/NexusDemo</connection>
-    <url>https://github.com/hongdnn/NexusDemo</url>
-    <developerConnection>scm:git:https://github.com/hongdnn/NexusDemo</developerConnection>
-    <tag>HEAD</tag>
+    <connection>scm:git:https://github.com/hongdnn/NexusDemo/tree/main/mylibrary</connection>
+    <url>https://github.com/hongdnn/NexusDemo/tree/main/mylibrary</url>
+    <developerConnection>scm:git:https://github.com/hongdnn/NexusDemo/tree/main/mylibrary</developerConnection>
+    <tag>MLIB</tag>
   </scm>
 
   <distributionManagement>
