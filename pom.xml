@@ -39,6 +39,9 @@
         <artifactId>maven-release-plugin</artifactId>
         <version>2.5.3</version>
         <configuration>
+          <tagNameFormat>1.0.3</tagNameFormat>
+          <autoVersionSubmodules>true</autoVersionSubmodules>
+          <releaseProfiles>releases</releaseProfiles>
           <checkModificationExcludes>
             <checkModificationExclude>pom.xml</checkModificationExclude>
           </checkModificationExcludes>
