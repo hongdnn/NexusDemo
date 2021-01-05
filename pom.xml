@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.example</groupId>
   <artifactId>test</artifactId>
-  <version>1.0.10-SNAPSHOT</version>
+  <version>1.0.10</version>
   <inceptionYear>2020</inceptionYear>
   <licenses>
     <license>
@@ -17,7 +17,7 @@
     <connection>scm:git:https://github.com/hongdnn/NexusDemo</connection>
     <url>https://github.com/hongdnn/NexusDemo</url>
     <developerConnection>scm:git:https://github.com/hongdnn/NexusDemo</developerConnection>
-    <tag>HEAD</tag>
+    <tag>test-1.0.10</tag>
   </scm>
 
   <distributionManagement>
