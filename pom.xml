@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.example</groupId>
   <artifactId>test</artifactId>
-  <version>1.0.7-SNAPSHOT</version>
+  <version>1.0.7</version>
   <inceptionYear>2020</inceptionYear>
   <licenses>
     <license>
@@ -14,10 +14,10 @@
   </licenses>
 
   <scm>
-    <connection>scm:git:https://github.com/hongdnn/NexusDemo.git</connection>
+    <connection>scm:git:https://github.com/hongdnn/NexusDemo</connection>
     <url>https://github.com/hongdnn/NexusDemo</url>
-    <developerConnection>https://github.com/hongdnn/NexusDemo.git</developerConnection>
-    <tag>MLIB</tag>
+    <developerConnection>scm:git:https://github.com/hongdnn/NexusDemo</developerConnection>
+    <tag>test-1.0.7</tag>
   </scm>
 
   <distributionManagement>
