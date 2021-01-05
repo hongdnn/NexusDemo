@@ -14,9 +14,9 @@
   </licenses>
 
   <scm>
-    <connection>scm:git:https://github.com/hongdnn/NexusDemo</connection>
+    <connection>scm:git:https://github.com/hongdnn/NexusDemo.git</connection>
     <url>https://github.com/hongdnn/NexusDemo</url>
-    <developerConnection>https://github.com/hongdnn/NexusDemo</developerConnection>
+    <developerConnection>https://github.com/hongdnn/NexusDemo.git</developerConnection>
     <tag>MLIB</tag>
   </scm>
 
