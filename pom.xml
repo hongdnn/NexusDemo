@@ -14,10 +14,9 @@
   </licenses>
 
   <scm>
-    <connection>scm:git:https://github.com/hongdnn/NexusDemo/tree/main/mylibrary</connection>
-    <url>https://github.com/hongdnn/NexusDemo/tree/main/mylibrary</url>
-    <developerConnection>scm:git:https://github.com/hongdnn/NexusDemo/tree/main/mylibrary</developerConnection>
-    <tag>test-1.0.7</tag>
+    <connection>scm:git:https://github.com/hongdnn/NexusDemo/tree/main/mylibrary/</connection>
+    <url>https://github.com/hongdnn/NexusDemo/tree/main/mylibrary/</url>
+    <developerConnection>scm:git:https://github.com/hongdnn/NexusDemo/tree/main/mylibrary/</developerConnection>
   </scm>
 
   <distributionManagement>
