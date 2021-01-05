@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.example</groupId>
   <artifactId>test</artifactId>
-  <version>1.0.2-SNAPSHOT</version>
+  <version>1.0.2</version>
   <inceptionYear>2020</inceptionYear>
   <licenses>
     <license>
@@ -15,9 +14,10 @@
   </licenses>
 
   <scm>
-    <connection>scm:cvs:ext:username@cvs.server.com:/var/lib/cvs:myapp</connection>
-    <developerConnection>scm:git:git@github.com:ledangtuanbk/demo-nexus.git</developerConnection>
-    <tag>HEAD</tag>
+    <connection>scm:git:https://github.com/hongdnn/NexusDemo</connection>
+    <url>https://github.com/hongdnn/NexusDemo</url>
+    <developerConnection>scm:git:https://github.com/hongdnn/NexusDemo</developerConnection>
+    <tag>test-1.0.2</tag>
   </scm>
 
   <distributionManagement>
@@ -38,6 +38,11 @@
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-release-plugin</artifactId>
         <version>2.5.3</version>
+        <configuration>
+          <checkModificationExcludes>
+            <checkModificationExclude>pom.xml</checkModificationExclude>
+          </checkModificationExcludes>
+        </configuration>
       </plugin>
       <plugin>
         <artifactId>maven-deploy-plugin</artifactId>
