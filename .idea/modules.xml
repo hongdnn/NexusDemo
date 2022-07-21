@@ -4,7 +4,13 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Demo1Coroutines.iml" filepath="$PROJECT_DIR$/.idea/modules/Demo1Coroutines.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Demo1Coroutines.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Demo1Coroutines.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Demo1Coroutines.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Demo1Coroutines.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Demo1Coroutines.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Demo1Coroutines.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Demo1Coroutines.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Demo1Coroutines.app.unitTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/mylibrary/Demo1Coroutines.mylibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/mylibrary/Demo1Coroutines.mylibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mylibrary/Demo1Coroutines.mylibrary.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/mylibrary/Demo1Coroutines.mylibrary.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mylibrary/Demo1Coroutines.mylibrary.main.iml" filepath="$PROJECT_DIR$/.idea/modules/mylibrary/Demo1Coroutines.mylibrary.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mylibrary/Demo1Coroutines.mylibrary.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/mylibrary/Demo1Coroutines.mylibrary.unitTest.iml" />
     </modules>
   </component>
 </project>
